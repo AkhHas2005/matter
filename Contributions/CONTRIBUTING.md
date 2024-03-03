@@ -8,14 +8,14 @@ These are mostly guidelines and not rules, but please aim to follow as many of t
 
 ### Table of Contents
 #### What should I know before starting to contribute?
-- Repository design
-- Programming Language and support
-- Restrictions
+- [Repository design](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#repository-design)
+- [Programming Language and support](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#programming-language-and-support)
+- [Restrictions](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#restrictions)
 
 #### How can I contribute?
-- File format for contributions
-- Type of file accepted
-- Ability to branch files
+- [File format for contributions](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#file-format-for-contributions)
+- [Type of file accepted](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#type-of-file-accepted)
+- [Ability to branch files](https://github.com/AkhHas2005/matter/blob/main/Contributions/CONTRIBUTING.md#ability-to-branch-files)
 
 ## What should I know before starting to contribute?
 
