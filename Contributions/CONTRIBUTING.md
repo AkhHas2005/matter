@@ -49,7 +49,7 @@ These are mostly guidelines and not rules, but please aim to follow as many of t
 
 ## Ability to branch files
 #### All contributions should be made on the `contributions` branch, then they will be pulled over to the `main` branch by the owner
-##### A example of how to publish to the `contributions` branch rather than the `main` one is below:
+##### An example of how to publish to the `contributions` branch rather than the `main` one is below:
 First go to the `code` page of the repository and click where it says `main` in the top left corner, just underneath the title of the repository
 ![An image showing the repository and how to switch branches](https://imgur.com/70RRNCe.png)
 Then click on the bit that says `contributions` underneath main in the `branches` section
