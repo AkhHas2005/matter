@@ -2,7 +2,8 @@
 solutionMapping = {2784: "isGood",
            2444: "countSubarrays",
            992: "subarraysWithKDistinct",
-           101: "isSymmetric"}
+           101: "isSymmetric"
+           2520: "countDigits"}
 
 solutionsFile = open("leetcodeSolutions.py")
 solutionsBank = solutionsFile.readlines()
