@@ -74,3 +74,12 @@ class Solutions:
             return False
         # Return true if the values of root nodes are same and left as well as right subtrees are symmetric...
         return self.isSame(leftroot.left, rightroot.right) and self.isSame(leftroot.right, rightroot.left)
+
+    def countDigits(self, num: int) -> int:
+        stringNum = str(num)
+        digitsCount = 0
+        for char in stringNum:
+            digit = int(char)
+            if num % digit == 0:
+                digitsCount += 1
+        return digitsCount
