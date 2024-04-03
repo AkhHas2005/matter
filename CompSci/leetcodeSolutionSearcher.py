@@ -1,7 +1,7 @@
 #Tool to search for leetcode solutions 
 solutionMapping = {2784: "isGood", 2444: "countSubarrays", 992: "subarraysWithKDistinct", 
                    101: "isSymmetric", 2520: "countDigits", 354: "maxEnvelopes",
-                   1310: "xorQueries"}
+                   1310: "xorQueries", 2250: "countRectangles"}
 
 solutionsFile = open("leetcodeSolutions.py")
 solutionsBank = solutionsFile.readlines()
